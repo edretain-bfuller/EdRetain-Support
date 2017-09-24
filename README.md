@@ -1,2 +1,2 @@
-# model-support
-Repository for tracking model support issues.
+# Edvida Support
+Repository for tracking Edvida support issues.
